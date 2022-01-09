@@ -5,7 +5,7 @@
 
 - 🔭 I just started working as a Data Visualization Central Grader at: [Trilogy Education Services][trilogy]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more about FinTech
+- 🥅 2022 Goals: Learn more about FinTech
 - ⚡ Fun fact: I love to play guitar and drums
 
 ### Connect with me:
