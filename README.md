@@ -3,7 +3,7 @@
 
 ## I'm a Data analyst, developer and teacher!!
 
-- 🔭 Data Visualization Central Grader, Learning Assistant and TA at: [EdX][trilogy]!
+- 🔭 Data Visualization Central Grader, Learning Assistant and Teaching Assistant at: [EdX][trilogy]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about FinTech
 - ⚡ Fun fact: I love to play guitar and drums
