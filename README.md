@@ -3,9 +3,9 @@
 
 ## I'm a Data analyst, developer and teacher!!
 
-- 🔭 Data Visualization Central Grader, Learning Assistant and Teaching Assistant at: [edX][trilogy]!
+- 🔭 Data Visualization & Artificial Intelligence Central Grader, Learning Assistant and Teaching Assistant at: [edX][trilogy]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn more about FinTech
+- 🥅 2025 Goals: Learn more about Database Management
 - ⚡ Fun fact: I love to play guitar and drums
 
 ### Connect with me:
